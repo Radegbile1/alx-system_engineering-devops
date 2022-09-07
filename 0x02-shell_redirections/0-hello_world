@@ -1,2 +1,2 @@
-$ wc -l file
-echo 'hello world'
+#!/bin/bash
+echo "Hello, World"
